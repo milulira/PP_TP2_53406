@@ -81,7 +81,7 @@ Permite procesar listas de Actividad o de cualquiera de sus subclases de forma p
  
 
 1. Clonar el repositorio:
-git clone https://github.com/tu_usuario/PP_TP2_tu_legajo.git
+git clone https://github.com/milulira/PP_TP2_53406.git
 
 2. Abrir en IntelliJ IDEA:
 Abrir IntelliJ IDEA y seleccionar Open.
